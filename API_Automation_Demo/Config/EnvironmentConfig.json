@@ -1,0 +1,16 @@
+﻿{
+  "environments": [
+    {
+      "name": "DEV",
+      "baseUrl": "https://reqres.in/",
+      "createUserEndpoint": "api/users",
+      "getUserDetails": "api/users/2"
+    },
+    {
+      "name": "QA",
+      "baseUrl": "https://reqres.in/",
+      "createUserEndpoint": "api/users",
+      "getUserDetails": "api/users/2"
+    }
+  ]
+}
